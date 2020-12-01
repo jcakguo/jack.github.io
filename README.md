@@ -8,7 +8,7 @@
       <p><b>地址：宁波市鄞州区盛莫路1519号</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % file:///C:/Users/10054/Pictures/Saved%20Pictures/QQ图片20201201132439.jpg
+      <img src="/zhengjianzhao.jpg" width="100%">      % 
     </td>
   </tr>
 </table>
